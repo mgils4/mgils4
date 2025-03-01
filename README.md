@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm currently working on some small scale automatic bioinformatic analysis stuff.  With some proficiency in Python and Snakemake pipelines, I am currently/ want to start learning NextFlow and R
+Hi! I am a novice bioinformation eager to learn!
+- 🔭 I'm currently working on some small scale automatic bioinformatic analysis stuff. 
+- 🌱 I am currently/ want to start learning NextFlow and R
+- 💬 Ask me about data analysis and visualisation, mainly in biology science!
 
+While currently on private, I have some experience in Python and creating Snakemake based pipelines for interpretation and processing of NanoPore sequencing data. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Max van Gils) 
