@@ -1,7 +1,7 @@
  # 💫 About Me:
 Hi! I am a novice bioinformation eager to learn!
 - 🔭 I'm currently working on some small scale automatic bioinformatic analysis stuff. 
-- 🌱 I am currently learning / want to start learning NextFlow and R
+- 🌱 I am currently learning / want to start learning some Javascript for minor projects, as well as NextFlow and R
 - 💬 Ask me about data analysis and visualisation, mainly in biology / sequencing related science!
 
 While reposities are currently private, I have some experience in Python and creating Snakemake based pipelines for interpretation and processing of Nanopore sequencing data. 
