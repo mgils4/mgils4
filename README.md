@@ -6,7 +6,7 @@ Hi! I am a novice bioinformation eager to learn!
 
 While reposities are currently private, I have some experience in Python and creating Snakemake based pipelines for interpretation and processing of Nanopore sequencing data. 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-van-gils/)
 
 # 💻 Tech skills and experiences:
