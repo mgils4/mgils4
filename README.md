@@ -2,13 +2,13 @@
 
 Hi! I am a novice bioinformation eager to learn!
 
-- 🔭 I'm currently working on some small scale automatic bioinformatic analysis pipelines and designing some smaller tools / projects.  
+- 🔭 I'm currently working on some small scale automatic bioinformatic analysis pipelines and designing some smaller tools / wrappers.  
 
 - 🌱 I am currently learning / want to start learning some Javascript and Streamlit for these projects, and I am planning to get into NextFlow and R
 
 - 💬 Ask me about data analysis and visualisation, mainly in biology / sequencing related science!
 
-While reposities are currently private, I have ~1,5 years of experience in Python and creating Snakemake based pipelines for interpretation and processing of Nanopore sequencing data.  
+While the reposities of some of my major projects are currently private, I have ~1,5 years of experience in Python and creating Snakemake based pipelines for interpretation and processing of Nanopore sequencing data.  
 
 ## 🌐 Socials
 
